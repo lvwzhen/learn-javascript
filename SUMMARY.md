@@ -1,4 +1,4 @@
 # Summary
 
-* [语法](yu_fa.md)
+* [快速入门](book/chapter-01/chapter-01.md)
 
